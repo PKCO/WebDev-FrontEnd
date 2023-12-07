@@ -1,0 +1,623 @@
+.macbook-pro-16-2-child {
+  position: absolute;
+  top: 45px;
+  left: 148px;
+  border-radius: var(--br-11xl);
+  background-color: rgba(13, 13, 13, 0.16);
+  width: 1447px;
+  height: 103px;
+  mix-blend-mode: overlay;
+}
+.events {
+  position: absolute;
+  top: 307px;
+  left: 357px;
+  font-size: 348.76px;
+  letter-spacing: 0.22em;
+  font-family: var(--font-karantina);
+  display: inline-block;
+  width: 1013px;
+  height: 366.3px;
+  text-shadow: 0 39.3px 17.88px rgba(0, 0, 0, 0.3);
+}
+.about-us,
+.contact-us,
+.events1,
+.home,
+.team,
+.updates {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 74px;
+}
+.about-us,
+.contact-us,
+.events1,
+.team,
+.updates {
+  left: 1269px;
+  width: 150px;
+}
+.about-us,
+.events1,
+.team,
+.updates {
+  left: 339px;
+  width: 106px;
+}
+.events1,
+.team,
+.updates {
+  left: 861px;
+  width: 114px;
+}
+.team,
+.updates {
+  left: 1065px;
+  width: 115px;
+}
+.team {
+  left: 172px;
+  width: 68px;
+}
+.image-3-icon {
+  position: absolute;
+  height: 100%;
+  width: 18.32%;
+  top: 0;
+  right: 43.55%;
+  bottom: 0;
+  left: 38.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-parent {
+  position: absolute;
+  top: 57px;
+  left: 179px;
+  width: 1419px;
+  height: 83px;
+  font-size: 22.97px;
+}
+.april-2022 {
+  position: absolute;
+  top: 26px;
+  left: 104px;
+}
+.calendarblank-icon {
+  position: absolute;
+  height: 100%;
+  width: 21.35%;
+  top: 0;
+  right: 78.65%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.april-2022-parent {
+  position: absolute;
+  top: 1072px;
+  left: 1041px;
+  width: 473px;
+  height: 95.8px;
+  font-size: 59.81px;
+  font-family: var(--font-josefin-sans);
+}
+.november-2022 {
+  position: absolute;
+  top: 27px;
+  left: 104px;
+}
+.calendarblank-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 16.5%;
+  top: 0;
+  right: 83.5%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.november-2022-parent {
+  position: absolute;
+  top: 2216px;
+  left: 1041px;
+  width: 612px;
+  height: 95.8px;
+  font-size: 59.81px;
+  font-family: var(--font-josefin-sans);
+}
+.august-2022 {
+  position: absolute;
+  top: 28px;
+  left: 115px;
+}
+.calendarblank-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 18.36%;
+  top: 0;
+  right: 81.64%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.august-2022-parent {
+  position: absolute;
+  top: 1601px;
+  left: 163px;
+  width: 550px;
+  height: 95.8px;
+  font-size: 59.81px;
+  font-family: var(--font-josefin-sans);
+}
+.march-2023 {
+  position: absolute;
+  top: 32px;
+  left: 112px;
+}
+.calendarblank-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 17.09%;
+  top: 0;
+  right: 82.91%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.march-2023-parent {
+  position: absolute;
+  top: 2830px;
+  left: 166px;
+  width: 591px;
+  height: 95.8px;
+  font-size: 59.81px;
+  font-family: var(--font-josefin-sans);
+}
+.macbook-pro-16-2-item {
+  position: absolute;
+  top: 120.5px;
+  left: 1038.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 81px;
+  height: 3px;
+}
+.macbook-pro-16-2-inner {
+  position: absolute;
+  top: 825px;
+  left: 861px;
+  width: 2px;
+  height: 2540px;
+}
+.an-interactive-workshop {
+  position: absolute;
+  top: 169px;
+  left: 0;
+  font-size: 30.69px;
+  font-weight: 300;
+  display: inline-block;
+  width: 718px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 411px;
+  height: 66px;
+}
+.group-item,
+.read-more {
+  position: absolute;
+  top: 24px;
+  left: 67px;
+}
+.group-item {
+  left: 264px;
+  width: 69.5px;
+  height: 22.1px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 348px;
+  left: 0;
+  width: 411px;
+  height: 66px;
+  font-size: 24.51px;
+  color: var(--color-black);
+}
+.group-inner {
+  position: absolute;
+  top: 127px;
+  left: -1px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 547px;
+  height: 2px;
+}
+.rocketry-101-parent,
+.rocketry-20-parent {
+  position: absolute;
+  top: 903px;
+  left: 86px;
+  width: 718px;
+  height: 414px;
+  font-size: 84.37px;
+  font-family: var(--font-josefin-sans);
+}
+.rocketry-20-parent {
+  top: 1441px;
+  left: 905px;
+}
+.dianas-eve {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 900;
+  font-family: var(--font-saira-condensed);
+}
+.dianas-eve-parent {
+  position: absolute;
+  top: 2058px;
+  left: 86px;
+  width: 718px;
+  height: 414px;
+  font-size: 84.37px;
+  font-family: var(--font-josefin-sans);
+}
+.hosted-by-iit {
+  margin: 0;
+}
+.frosthack-2k23-parent {
+  position: absolute;
+  top: 2672px;
+  left: 905px;
+  width: 718px;
+  height: 414px;
+  font-size: 84.37px;
+  font-family: var(--font-josefin-sans);
+}
+.group-icon,
+.macbook-pro-16-2-child1 {
+  position: absolute;
+  top: 1116px;
+  left: 848px;
+  width: 193px;
+  height: 28px;
+}
+.macbook-pro-16-2-child1 {
+  top: 2261px;
+}
+.macbook-pro-16-2-child2,
+.macbook-pro-16-2-child3 {
+  position: absolute;
+  top: 1634px;
+  left: 683px;
+  width: 193px;
+  height: 28px;
+}
+.macbook-pro-16-2-child3 {
+  top: 2867px;
+}
+.macbook-pro-16-2-child4 {
+  position: absolute;
+  top: 3530px;
+  left: -157px;
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 1945px;
+  height: 713px;
+}
+.email {
+  top: 4020px;
+  left: 1359px;
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.aeroastro-vzggitamin,
+.email,
+.gitam-aero-astro,
+.linkedin {
+  position: absolute;
+  font-size: 22.97px;
+  font-weight: 500;
+}
+.aeroastro-vzggitamin {
+  top: 4043px;
+  left: 1359px;
+  background: linear-gradient(
+    180deg,
+    #000,
+    #232323 60.52%,
+    #8c8c8c 86.56%,
+    gray 90.63%,
+    transparent
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gitam-aero-astro,
+.linkedin {
+  text-decoration: underline;
+}
+.linkedin {
+  top: 4135px;
+  left: 1362px;
+  color: var(--color-black);
+}
+.gitam-aero-astro {
+  top: 4164px;
+  left: 1359px;
+  background: linear-gradient(
+    180deg,
+    #000,
+    rgba(0, 0, 0, 0.77) 89.58%,
+    transparent
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.instagram,
+.social-media {
+  position: absolute;
+  color: var(--color-black);
+}
+.instagram {
+  top: 3941px;
+  left: 1349px;
+  font-size: 22.97px;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.social-media {
+  top: 3842px;
+  left: 1247px;
+  font-size: 37.34px;
+  font-weight: 800;
+}
+.facebook-icon,
+.instagram-icon,
+.linkedin-circled-icon {
+  position: absolute;
+  top: 4022px;
+  left: 1247px;
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+.instagram-icon,
+.linkedin-circled-icon {
+  top: 3922px;
+}
+.linkedin-circled-icon {
+  top: 4121px;
+  width: 75px;
+  height: 75px;
+}
+.gaac {
+  position: absolute;
+  top: 3689px;
+  left: 126px;
+  font-size: 51.5px;
+  font-weight: 800;
+  color: var(--color-black);
+}
+.about-us1,
+.advisors,
+.executive-body,
+.teams {
+  position: absolute;
+  top: 3907px;
+  left: 885px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.about-us1,
+.advisors,
+.executive-body {
+  top: 3964px;
+}
+.about-us1,
+.advisors {
+  top: 4021px;
+}
+.about-us1 {
+  top: 3842px;
+  font-size: 37.34px;
+  font-weight: 800;
+  color: var(--color-black);
+}
+.group-child7,
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 48px;
+  height: 95px;
+}
+.group-child8 {
+  top: 16px;
+  left: 17px;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1.2px 8.75px rgba(0, 0, 0, 0.25);
+  border: 0.9px solid var(--color-white);
+  width: 14px;
+  height: 27.7px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 673px;
+  left: 840px;
+  width: 48px;
+  height: 95px;
+}
+.scroll-down {
+  position: absolute;
+  top: 781px;
+  left: 822px;
+  font-size: 16.08px;
+  font-weight: 300;
+  font-family: var(--font-josefin-sans);
+  display: inline-block;
+  width: 84.8px;
+}
+.macbook-pro-16-2-child5,
+.polygon-icon {
+  position: absolute;
+  top: 486.6px;
+  left: 1216px;
+  width: 238.1px;
+  height: 173.8px;
+  opacity: 0.2;
+}
+.macbook-pro-16-2-child5 {
+  top: 589.5px;
+  left: 311.2px;
+  width: 148.9px;
+  height: 130.6px;
+}
+.macbook-pro-16-2-child6,
+.macbook-pro-16-2-child7 {
+  position: absolute;
+  top: 638.4px;
+  left: 249.4px;
+  width: 260.9px;
+  height: 228.9px;
+  opacity: 0.2;
+}
+.macbook-pro-16-2-child7 {
+  top: 777.4px;
+  left: 309.8px;
+}
+.macbook-pro-16-2-child8,
+.macbook-pro-16-2-child9 {
+  position: absolute;
+  top: 1040.8px;
+  left: 555.5px;
+  width: 505.1px;
+  height: 432.9px;
+  opacity: 0.2;
+}
+.macbook-pro-16-2-child9 {
+  top: 1306.4px;
+  left: 1136.3px;
+  width: 179.8px;
+  height: 154px;
+}
+.macbook-pro-16-2-child10,
+.macbook-pro-16-2-child11,
+.macbook-pro-16-2-child12 {
+  position: absolute;
+  top: 1348.4px;
+  left: 1250.7px;
+  width: 179.8px;
+  height: 154px;
+  opacity: 0.2;
+}
+.macbook-pro-16-2-child11,
+.macbook-pro-16-2-child12 {
+  top: 1386.5px;
+  left: 1010.4px;
+}
+.macbook-pro-16-2-child12 {
+  top: 1468.7px;
+  left: 1238.4px;
+}
+.macbook-pro-16-2-child13,
+.macbook-pro-16-2-child14,
+.macbook-pro-16-2-child15 {
+  position: absolute;
+  top: 1263px;
+  left: 210.3px;
+  width: 505.1px;
+  height: 432.9px;
+  opacity: 0.2;
+}
+.macbook-pro-16-2-child14,
+.macbook-pro-16-2-child15 {
+  top: 1377.4px;
+  left: 525.9px;
+}
+.macbook-pro-16-2-child15 {
+  top: 302.6px;
+  left: 1273px;
+  width: 238.1px;
+  height: 173.8px;
+}
+.whatsapp-image-2023-10-21-at-21 {
+  position: absolute;
+  top: 3571px;
+  left: 147px;
+  width: 114.7px;
+  height: 100px;
+  object-fit: cover;
+}
+.events2 {
+  position: absolute;
+  top: 3842px;
+  left: 519px;
+  font-size: 37.34px;
+  font-weight: 800;
+  color: var(--color-black);
+}
+.dianas-eve1,
+.frosthack-2k231,
+.rocketry-1011,
+.rocketry-201,
+.sangharsh {
+  position: absolute;
+  top: 3907px;
+  left: 519px;
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.dianas-eve1,
+.frosthack-2k231,
+.rocketry-201,
+.sangharsh {
+  top: 3964px;
+}
+.dianas-eve1,
+.frosthack-2k231,
+.sangharsh {
+  top: 4021px;
+}
+.frosthack-2k231,
+.sangharsh {
+  top: 4078px;
+}
+.sangharsh {
+  top: 4135px;
+}
+.macbook-pro-16-2 {
+  position: relative;
+  background: linear-gradient(-11.28deg, #98e4ff, #001c30);
+  width: 100%;
+  height: 4242px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 34.71px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
